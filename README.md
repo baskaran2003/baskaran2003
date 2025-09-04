@@ -1,32 +1,39 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213739093-7aa0d00d-8f79-48a2-83d7-4d52c54f3a2a.gif" width="100%" alt="banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Baskaran</h1>
-<h3 align="center">Aspiring Data Engineer | Data Scientist | AI/ML Enthusiast</h3>
+<h3 align="center">🎓 Recent Graduate (2025) | Aspiring Data Engineer | Data Scientist | AI/ML Enthusiast</h3>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baskaran2003&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
-- 🎓 A recent **B.E. Computer Science & Engineering** Graduate @ Arunai Engineering College (2021–2025)  
-- ☁️ Currently pursuing **AWS re/Start** program   
-- 💻 Interested in **Data Engineering, Data Science, and AI/ML roles & internships**  
-- 🚀 Passionate about **MLOps, ETL pipelines, and end-to-end ML workflows**  
-- 🌱 Continuously learning, adapting, and building **real-world data solutions**  
+---
+
+## 👨‍💻 About Me  
+
+- 🎓 **Recent Graduate (2025)** – B.E. Computer Science & Engineering, Arunai Engineering College  
+- ☁️ Currently expanding skills via **AWS re/Start Program** (Cloud & DevOps – in progress)  
+- 💻 Known Programming Languages: **Python, SQL, C (Basics)**  
+- 🚀 Career Interests: **Data Engineering, Data Science, AI/ML, and MLOps**  
+- 🌱 Passionate about solving **real-world problems with data and cloud solutions**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,aws,linux,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,git,github,aws,linux,html,css,js,vscode" />
 </p>
 
-- **Languages:** Python, SQL, C  
-- **Data Skills:** Data Analytics, Data Cleaning, EDA, ETL  
-- **Cloud & DevOps:** AWS (re/Start in progress), GitHub Actions (CI/CD), MLflow  
+- **Languages:** Python, SQL, C (Basics) 
+- **Data Skills:** Data Cleaning, EDA, ETL, Analytics  
+- **Cloud & DevOps:** AWS (Restart Program), GitHub Actions (CI/CD), MLflow  
 - **Other Tools:** MS Excel, IBM Cognos, Tkinter GUI  
 
 ---
@@ -40,17 +47,51 @@
 
 ## 📂 Featured Projects  
 
-🔹 [SQL EDA](https://github.com/baskaran2003/Myprojects/tree/main/SQL_EDA) – SQL queries, cleaning & validation  
-🔹 [Bangalore Home Price Prediction](https://github.com/baskaran2003/Myprojects/tree/main/BangaloreHomePrice) – ML model + Web UI  
-🔹 [Text Editor (Tkinter GUI)](https://github.com/baskaran2003/Myprojects/tree/main/Text%20Editor) – Python GUI project  
-🔹 [Network Security ETL](https://github.com/baskaran2003/NetworkSecurity) – Modular ETL, CI/CD, MLflow tracking  
-🔹 **Sentiment Analysis Pipeline** – Real-time reviews analysis with MLOps  
+<table>
+<tr>
+<td width="50%">
+  
+### 🔹 [SQL EDA](https://github.com/baskaran2003/Myprojects/tree/main/SQL_EDA)  
+📌 SQL queries, cleaning & validation with MySQL  
+🛠️ Skills: SQL, Data Cleaning, Data Validation  
+
+</td>
+<td width="50%">
+  
+### 🔹 [Bangalore Home Price Prediction](https://github.com/baskaran2003/Myprojects/tree/main/BangaloreHomePrice)  
+📌 Machine Learning model with frontend (HTML, CSS, JS)  
+🛠️ Skills: Python, ML, Flask, Web Deployment  
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+  
+### 🔹 [Text Editor GUI](https://github.com/baskaran2003/Myprojects/tree/main/Text%20Editor)  
+📌 Built with Tkinter, includes file handling and GUI design  
+🛠️ Skills: Python, Tkinter, OOPs  
+
+</td>
+<td width="50%">
+  
+### 🔹 [Network Security ETL](https://github.com/baskaran2003/NetworkSecurity)  
+📌 Modular ETL pipeline with CI/CD integration  
+🛠️ Skills: Python, MLflow, GitHub Actions  
+
+</td>
+</tr>
+</table>
+
+⭐ Other Work: **Sentiment Analysis Pipeline** (real-time reviews analysis with MLOps)  
 
 ---
 
 ## 📜 Certifications  
 
-- ☁️ AWS re/Start (In Progress)  
+- ☁️ AWS re/Start – *In Progress*  
 - 📌 Python for Data Science – Coursera  
 - 📌 Python Crash Course – Coursera  
 - 📌 Excel for Data Analytics – Udemy  
@@ -61,12 +102,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baskaran2003&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baskaran2003&theme=tokyonight" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baskaran2003&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baskaran2003&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran2003&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran2003&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
