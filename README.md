@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 **Recent Graduate (2025)** – B.E. Computer Science & Engineering, Arunai Engineering College  
-- ☁️ Currently completed 4 months **AWS re/Start Program** (Cloud & DevOps)  
+- ☁️ Knowledge on Cloud Computing[AWS] via **AWS re/Start Program** (Cloud & DevOps)  
 - 💻 Known Programming Languages: **Python, SQL, C (Basics)**  
 - 🚀 Career Interests: **Data Engineering, Data Science, Cloud, AI/ML, and MLOps**  
 - 🌱 Passionate about solving **real-world problems with data and cloud solutions**  
