@@ -85,7 +85,7 @@
 
 ## 📜 Certifications  
 
-- ☁️ AWS re/Start – *In Progress*  
+- ☁️ AWS re/Start – AWS  
 - 📌 Python for Data Science – Coursera  
 - 📌 Python Crash Course – Coursera  
 - 📌 Excel for Data Analytics – Udemy  
