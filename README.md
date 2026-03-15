@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Baskaran</h1>
-<h3 align="center">🎓 Recent Graduate (2025) | Aspiring Data Engineer | Data Scientist | AI/ML Enthusiast</h3>
+<h3 align="center">🎓 Recent Graduate (2025) | Entry-Level IT Professional | Interested in Software Development and Data Roles</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 - 🎓 **Recent Graduate (2025)** – B.E. Computer Science & Engineering, Arunai Engineering College  
 - ☁️ Knowledge on Cloud Computing[AWS] via **AWS re/Start Program** (Cloud & DevOps)  
 - 💻 Known Programming Languages: **Python, SQL, C (Basics)**  
-- 🚀 Career Interests: **Data Engineering, Data Science, Cloud, AI/ML, and MLOps**  
+- 🚀 Career Interests: **Data Engineering, Software Engineer, Data Science, Cloud, AI/ML, and MLOps**  
 - 🌱 Passionate about solving **real-world problems with data and cloud solutions**  
 
 ---
